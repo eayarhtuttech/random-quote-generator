@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 14,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.lineHeight": 1,
+    "editor.parameterHints.cycle": true,
+    "editor.mouseWheelScrollSensitivity": 0,
+    "editor.codeLensFontSize": 1,
+    "editor.wordWrap": "on",
+    "editor.cursorSmoothCaretAnimation": true,
+    "diffEditor.codeLens": true,
+    "files.autoGuessEncoding": true
+}
