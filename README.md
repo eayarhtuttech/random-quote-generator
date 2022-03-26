@@ -1,2 +1,2 @@
-# random-quote-generator
- a random quote generator 
+# randomquotegenerator.github.io
+ a random quote generator
